@@ -37,9 +37,9 @@
 ---
 
 ### 🚀 **Projects**
-🔹 **[Digital Payment App](https://github.com/Digital_Payment_App)** – A simple electronic transaction system 📲  
-🔹 **[Simple Shell](https://github.com/simple_shell)** – A UNIX shell implementation in C 🖥️  
-🔹 **[Portfolio Website](https://github.com/Mohamed_Emad_Portfolio)** – A personal website to showcase projects 🌐  
+🔹 **[Digital Payment App](https://github.com/Digital_Payment_App.git)** – A simple electronic transaction system 📲  
+🔹 **[Simple Shell](https://github.com/simple_shell.git)** – A UNIX shell implementation in C 🖥️  
+🔹 **[Portfolio Website](https://github.com/Mohamed_Emad_Portfolio.git)** – A personal website to showcase projects 🌐  
 
 📌 *Check out my [repositories](https://github.com/mo7amed3mad17?tab=repositories) for more projects!*
 
