@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohammed 👋</h1>
 
-🚀 **Electrical & Software Engineer | Digital Payments Enthusiast**  
+🚀 **Electrical & Electronic Engineering Student | Full-stack Softsare Engineer**  
 
 💡 Passionate about **software engineering and backend and frontend development**  
 🎓 **3rd-year Electrical & Electronic Engineering student**  
