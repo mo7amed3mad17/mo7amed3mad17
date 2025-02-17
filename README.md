@@ -2,9 +2,9 @@
 
 🚀 **Electrical & Electronic Engineering Student | Full-stack Softsare Engineer**  
 
-💡 Passionate about **software engineering and backend and frontend development**  
+💡 Passionate about **software engineering and web development**  
 🎓 **3rd-year Electrical & Electronic Engineering student**  
-🔭 Completed **ALX Software Engineering** & **Electrical Installations Course**  
+🔭 Completed **ALX Software Engineering** & **Electrical Installations Courses**  
 💻 Skilled in **Python, C, SQL, and Backend Development**  
 📚 Currently learning **system design and advanced programming concepts**  
 
