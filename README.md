@@ -45,7 +45,7 @@
 </p>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg" alt="js" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
 </p>
 
 
