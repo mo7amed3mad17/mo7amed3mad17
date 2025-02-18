@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammed 👋</h1>
+8<h1 align="center">Hi, I'm Mohammed 👋</h1>
 
 🚀 **Electrical & Electronic Engineering Student | Full-stack Softsare Engineer**  
 
@@ -55,12 +55,25 @@
 </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
 </p>
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
 </p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/>
+</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="45" height="45"/>
+</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="python" width="45" height="45"/>
+</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+</p> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
+</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" alt="" width="45" height="45"/>
+</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" alt="" width="45" height="45"/>
 </p>
 ---
 
