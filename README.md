@@ -45,7 +45,7 @@
 </p>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg" alt="js" width="45" height="45"/>
 </p>
 
 
