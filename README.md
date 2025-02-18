@@ -1,4 +1,4 @@
-8<h1 align="center">Hi, I'm Mohammed 👋</h1>
+<h1 align="center">Hi, I'm Mohammed 👋</h1>
 
 🚀 **Electrical & Electronic Engineering Student | Full-stack Softsare Engineer**  
 
@@ -70,10 +70,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 </p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
-</p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" alt="" width="45" height="45"/>
-</p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" alt="" width="45" height="45"/>
 </p>
 ---
 
