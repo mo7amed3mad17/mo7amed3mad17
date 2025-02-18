@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammed 👋</h1>
+8<h1 align="center">Hi, I'm Mohammed 👋</h1>
 
 🚀 **Electrical & Electronic Engineering Student | Full-stack Softsare Engineer**  
 
@@ -41,7 +41,7 @@
 </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 </p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" alt="cpp" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
 </p>
 
 
