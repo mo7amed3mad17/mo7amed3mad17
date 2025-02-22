@@ -28,12 +28,6 @@
 ---
 
 ### 🛠 **Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend_Development-0078D7?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-FF8C00?style=for-the-badge)
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
