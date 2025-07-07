@@ -2,21 +2,14 @@
 
 🚀 **Electrical & Electronic Engineering Student | Full-stack Softsare Engineer**  
 
-💡 Passionate about **software engineering and web development**  
-🎓 **3rd-year Electrical & Electronic Engineering student**  
-🔭 Completed **ALX Software Engineering** & **Electrical Installations Courses**  
+💡 Passionate about **software engineering, embedded systems and web development**  
+🎓 **Electrical & Electronic Engineering student**  
+🔭 My current role is project manager at **Sudan Polling Statistics Center**  
 💻 Skilled in **Python, C, SQL, and Backend Development**  
 📚 Currently learning **system design and advanced programming concepts**  
 
 ---
 
-### 🌟 **About Me**
-- ⚡ Interested in **backend development, frontend development, and system programming**  
-- 🔥 Built a **digital payment app** as part of ALX Software Engineering  
-- 💡 Exploring **secure and scalable financial transaction systems**  
-- 🎯 Future goal: **Develop robust backend systems for financial applications**  
-
----
 
 ### 📊 **GitHub Stats**
 <div align="center">
