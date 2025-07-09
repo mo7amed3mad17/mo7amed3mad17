@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Mohammed 👋</h1>
 
-🚀 **Electrical & Electronic Engineering Student | Full-stack Softsare Engineer**  
-
+🚀 **Electrical & Electronic Engineering Student | Full-stack Software Engineer**  
 💡 Passionate about **software engineering, embedded systems and web development**  
 🎓 **Electrical & Electronic Engineering student**  
 🔭 My current role is project manager at **Sudan Polling Statistics Center**  
